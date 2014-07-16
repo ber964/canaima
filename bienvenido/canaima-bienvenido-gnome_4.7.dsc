@@ -14,10 +14,10 @@ Package-List:
  canaima-bienvenido-gnome deb misc optional
 Checksums-Sha1: 
  d2f3b86328300ca0d089dc7ac541d79162651933 988295 canaima-bienvenido-gnome_4.7.orig.tar.gz
- 9bc97ac9d10f80416a24d54472a593879c55879f 8153 canaima-bienvenido-gnome_4.7.debian.tar.gz
+ b8781bb60ef37ff88b3ff17881c8698fc33020f0 8971 canaima-bienvenido-gnome_4.7.debian.tar.gz
 Checksums-Sha256: 
  a5b0bd4fb908953e1d97117a97aa0ffb93aacd0ab4ace52c7939f5eefe825058 988295 canaima-bienvenido-gnome_4.7.orig.tar.gz
- 7c23516bb7959673ceca29fba34d149b3f3201a3f6f858628abb565b8db22ea9 8153 canaima-bienvenido-gnome_4.7.debian.tar.gz
+ 812bd3b1f274a7976f655b2639bf61c6048299d82f89c47b7e7eb181fd7889fc 8971 canaima-bienvenido-gnome_4.7.debian.tar.gz
 Files: 
  4cbd151c306cd6cd5087267a1c3a594d 988295 canaima-bienvenido-gnome_4.7.orig.tar.gz
- c734894be577a72359544c8db5f76fec 8153 canaima-bienvenido-gnome_4.7.debian.tar.gz
+ 7dff0808c62cb13a1a62b1218d1b2791 8971 canaima-bienvenido-gnome_4.7.debian.tar.gz
